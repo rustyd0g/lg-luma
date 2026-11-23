@@ -1,5 +1,11 @@
 # lg-luma
 
+## 3.13.2
+
+### Patch Changes
+
+- b3f7115: Handle native app lifecycle registration explicitly for ordinary and Home Chooser launches, returning to the Home scene on relaunch while preserving legacy LG Home takeover paths.
+
 ## 3.13.1
 
 ### Patch Changes
